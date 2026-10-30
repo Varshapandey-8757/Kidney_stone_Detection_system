@@ -1,0 +1,9 @@
+{
+  "version": "mobilenetv2-20261025",
+  "threshold": 0.5,
+  "class_names": [
+    "Normal",
+    "stone"
+  ],
+  "img_size": 224
+}
